@@ -6,5 +6,3 @@ print(123.8)
 print(-19.0)
 print("The average of those numbers is:")
 print(22.7)
-
-
